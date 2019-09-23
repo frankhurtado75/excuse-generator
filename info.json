@@ -1,0 +1,15 @@
+{
+	"title" : "The Excuse Generator",
+	"slug" : "excuse-generator",
+	"duration" : 4,
+	"description" : "Disneyland para procrastinadores. ¡Este generador de excusas no requiere más de 20 líneas de código y puede salvarte por el resto de tu vida!",
+	"talents": [
+		{ "badge": "identator", "points": 6 },
+		{ "badge": "tag-master", "points": 3 },
+		{ "badge": "window-lover", "points": 3 },
+		{ "badge": "mouse-god", "points": 3 },
+		{ "badge": "source-inspector", "points": 5 },
+		{ "badge": "abc", "points": 5 },
+		{ "badge": "functional-developer", "points": 5 }
+	]
+}
